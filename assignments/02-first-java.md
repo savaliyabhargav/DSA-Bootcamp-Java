@@ -14,4 +14,6 @@ find Simple Interest.
 7. To calculate Fibonacci Series up to n numbers.
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
+10. make program to take input radior of circle cone cylinder or spear and give out put of surfacearea and volume
+    
 
